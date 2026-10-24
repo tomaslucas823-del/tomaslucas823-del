@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Lucas+Tom%C3%A1s;Desenvolvedor+de+Sistemas" alt="Typing SVG" />
-
-**Maputo, Moçambique**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Lucas%20Tom%C3%A1s&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20de%20Sistemas%20%C2%B7%20Maputo&descAlignY=55&descSize=16" width="100%" />
 
 <br>
 
@@ -57,8 +55,4 @@ Outros       Git · Design gráfico · Documentação (ABNT)
 
 <br>
 
-<div align="center">
-
-✦ Disponível para projetos com impacto real ✦
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%" />
