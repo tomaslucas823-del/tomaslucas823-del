@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" width="100%" />
+<img src="https://images.pexels.com/photos/30671139/pexels-photo-30671139.jpeg?auto=compress&cs=tinysrgb&w=1200" width="100%" alt="Mysterious figure" style="border-radius: 8px;" />
 
 <br><br>
 
 # Lucas Tomás
 
-### Desenvolvedor de Sistemas
+**Desenvolvedor de Sistemas**
 
-<br>
-
-*Código limpo. Soluções reais. Impacto local.*
+Maputo, Moçambique
 
 <br>
 
@@ -19,58 +17,39 @@
 [![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0d1117)](https://github.com/tomaslucas823-del)
 [![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0d1117)](https://github.com/tomaslucas823-del)
 
-<br><br>
-
 </div>
-
----
-
-<div align="center">
-
-### Sobre mim
-
-</div>
-
-Desenvolvedor focado em criar sistemas de gestão e interfaces web que resolvem problemas reais.  
-Trabalho principalmente com **Java + MySQL** no backend e **TypeScript** no frontend.  
-Interesso-me também por infraestrutura (Fedora + Cisco) e design visual.
-
-Atualmente a desenvolver soluções pensadas para o contexto de **Moçambique**.
 
 <br>
 
 ---
 
-<div align="center">
+### Sobre
+
+Desenvolvedor focado em soluções práticas e bem construídas.  
+Trabalho com **sistemas de gestão** (Java + MySQL), interfaces web modernas e infraestrutura de redes.
+
+Gosto de unir código limpo, design funcional e impacto real — especialmente no contexto moçambicano.
+
+---
 
 ### Projetos
 
-</div>
-
-| | |
-|:--|:--|
+| Projeto | Descrição |
+|---------|-----------|
 | **[tle-arquitetura](https://github.com/tomaslucas823-del/tle-arquitetura)** | Visualização residencial em Maputo |
 | **[lunea-menu](https://github.com/tomaslucas823-del/lunea-menu)** | Interface de menu |
-| **Sistemas de Gestão** | Gym Management · Gestão Comercial de Confeiteira |
-
-<br>
+| Sistemas de Gestão | Gym Management · Gestão Comercial de Confeiteira |
 
 ---
 
-<div align="center">
-
 ### Stack
 
-`Java` &nbsp; `TypeScript` &nbsp; `MySQL` &nbsp; `HTML/CSS` &nbsp; `Fedora` &nbsp; `Cisco`
+`Java` &nbsp;·&nbsp; `TypeScript` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `HTML/CSS` &nbsp;·&nbsp; `Fedora` &nbsp;·&nbsp; `Cisco`
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tomaslucas823-del&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa)
+<div align="center">
 
-<br>
-
-**Maputo, Moçambique**
+![Stats](https://github-readme-stats.vercel.app/api?username=tomaslucas823-del&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer" width="100%" />
